@@ -1,0 +1,29 @@
+h1{ color: rgb(2, 2, 68);
+ padding: 25px;
+}
+    h2 { color: #ff9f1a
+    ;    
+    padding: 25px;
+    font: optical sizing 9; ;
+
+     }  
+     h3{ padding: 10px;}
+
+     p{ padding: 25px; }
+
+     li{   padding: 10px;}
+
+
+
+.produto { background: #f8f8f8
+;}
+img{ margin: 40px;
+border: solid 5px black;
+}
+
+
+.produto h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background: #6ab04c;
+
+ 
+}
